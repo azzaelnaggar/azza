@@ -1,10 +1,11 @@
-# azza
+
 
 <h1 align="center">Hi 👋, I'm Azza Ali Elnaggar</h1>
 <h3 align="center">Machine Learning Engineer / Data Scientist</h3>
 
-- 🌱 I’m currently learning **Ai-machine learning - deep learning** at 9-month professional diploma in Institute of Information Technology (ITI)
-- 📫 How to reach me **azzaaliomar74@gmail.com**
+- 🌱I studied **Ai-machine learning - deep learning** at 9-month professional diploma in Institute of Information Technology (ITI)
+- 📫 How to reach me **azzaaliomar74@gmail.com** 
+- **https://www.linkedin.com/in/azzaelnaggar/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
