@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Azza Ali Elnaggar</h1>
+<h1 align="center">Hi 👋, I'm Azza Ali </h1>
 <h3 align="center">Machine Learning Engineer / Data Scientist</h3>
 
 - 🌱I Graduated from **Ai and machine learning** at 9-month professional diploma in Institute of Information Technology (ITI)
